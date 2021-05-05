@@ -1,0 +1,15 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "keywords": [],
+  "author": "Brad Garropy",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
